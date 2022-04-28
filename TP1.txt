@@ -1,2 +1,6 @@
+1) Installation de git
+2) Les cmds de git
+3) Déploiement du code sur github
+
 outil N1 git
 outil N2 github
